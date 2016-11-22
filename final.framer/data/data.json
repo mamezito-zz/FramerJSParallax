@@ -1,0 +1,233 @@
+{
+  "channels" :[
+    {
+      "name":"Cooking",
+      "discussions":"35",
+      "members":"12",
+      "notifications":"0",
+      "image":"images/cooking.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Sports",
+      "discussions":"130",
+      "members":"42",
+      "notifications":"0",
+      "image":"images/sports.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Photography",
+      "discussions":"19",
+      "members":"84",
+      "notifications":"0",
+      "image":"images/photography.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Books",
+      "discussions":"19",
+      "members":"48",
+      "notifications":"0",
+      "image":"images/books.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Extreme",
+      "discussions":"9",
+      "members":"41",
+      "notifications":"0",
+      "image":"images/extreme.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Urban",
+      "discussions":"9",
+      "members":"18",
+      "notifications":"0",
+      "image":"images/urbanArt.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Gadgets",
+      "discussions":"343",
+      "members":"981",
+      "notifications":"0",
+      "image":"images/gadgets.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Movies",
+      "discussions":"74",
+      "members":"434",
+      "notifications":"0",
+      "image":"images/movies.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Cars",
+      "discussions":"123",
+      "members":"567",
+      "notifications":"0",
+      "image":"images/cars.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Music",
+      "discussions":"94",
+      "members":"605",
+      "notifications":"0",
+      "image":"images/music.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Relations",
+      "discussions":"48",
+      "members":"734",
+      "notifications":"0",
+      "image":"images/relations.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Travel",
+      "discussions":"91",
+      "members":"256",
+      "notifications":"0",
+      "image":"images/travel.jpg",
+      "subscribed":"false"
+    },
+
+    {
+      "name":"Science",
+      "discussions":"31",
+      "members":"54",
+      "notifications":"0",
+      "image":"images/science.jpg",
+      "subscribed":"false"
+    },
+    {
+      "name":"Religion",
+      "discussions":"95",
+      "members":"393",
+      "notifications":"0",
+      "image":"images/religion.jpg",
+      "subscribed":"false"
+    }
+  ],
+  "discussions":[
+    {
+      "name":"What is the best kind of pasta",
+      "author":"Maxine Hughes",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/83.jpg",
+      "cover":"images/",
+      "time":"1 hour ago",
+      "comments":"34",
+      "users":"4",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"What kind of work does the point on a chef’s knife excel at?",
+      "author":"Marilyn Banks",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/11.jpg",
+      "cover":"images/",
+      "comments":"11",
+
+      "time":"3 hours ago",
+      "users":"4",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"Can you thaw out a roast, grind it, then re-freeze it for later?",
+      "author":"Gene Hamilton",
+      "authorAvatar":"https://randomuser.me/api/portraits/men/11.jpg",
+      "cover":"images/",
+      "comments":"53",
+
+      "time":"yesterday",
+      "users":"4",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"Mexican rice",
+      "author":"Nevaeh Fuller",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/22.jpg",
+      "cover":"images/",
+      "comments":"37",
+      "users":"4",
+      "notifications":"0",
+      "time":"yesterday",
+      "subscribed":"false"
+    },
+    {
+      "name":"Considering doing a seared duck breast tonight, but that's all I've got. Ideas for sides/herbs and spices?",
+      "author":"Jerry Walker",
+      "authorAvatar":"https://randomuser.me/api/portraits/men/22.jpg",
+      "cover":"images/",
+      "comments":"4",
+      "users":"4",
+      "notifications":"0",
+      "time":"2 days ago",
+      "subscribed":"false"
+    },
+    {
+      "name":"What appliances do you recommend?",
+      "author":"Kaylee Bates",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/27.jpg",
+      "cover":"images/",
+      "comments":"19",
+      "users":"4",
+      "time":"last week",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"help with stuffed peppers!",
+      "author":"Ramon Holt",
+      "authorAvatar":"https://randomuser.me/api/portraits/men/27.jpg",
+      "cover":"images/",
+      "comments":"34",
+      "users":"4",
+      "notifications":"0",
+      "time":"last week",
+      "subscribed":"false"
+    },
+    {
+      "name":"I put way too much cream in my soup, how do I save it?",
+      "author":"Lester Ward",
+      "authorAvatar":"https://randomuser.me/api/portraits/men/49.jpg",
+      "cover":"images/",
+      "comments":"34",
+      "users":"4",
+      "time":"last week",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"Just harvested my first Habaneros.. Now what? Any recommendations for a sauce, seasoning, or recipe?",
+      "author":"Jane Perkins",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/49.jpg",
+      "cover":"images/",
+      "comments":"34",
+      "time":"last week",
+      "users":"4",
+      "notifications":"0",
+      "subscribed":"false"
+    },
+    {
+      "name":"What is the best culinary mistake you ever made that turned out quite good?",
+      "author":"Melinda Johnson",
+      "authorAvatar":"https://randomuser.me/api/portraits/women/75.jpg",
+      "cover":"images/",
+      "comments":"34",
+      "time":"last week",
+      "users":"4",
+      "notifications":"0",
+      "subscribed":"false"
+    }
+
+
+  ]
+}
